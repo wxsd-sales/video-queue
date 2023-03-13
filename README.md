@@ -1,5 +1,5 @@
 # Webex WebRTC Video Call Queue
-
+Welcome to our WXSD DEMO Repo! <!-- Keep this here --> 
 **Create a fully customized WebRTC video call queue.**
 
 This is a proof-of-concept application which generates a customized looking queue links to establish Webex backed WebRTC video calls between the requester and responder.
@@ -12,6 +12,11 @@ This is a proof-of-concept application which generates a customized looking queu
 
 </br >
 
+
+<!-- Keep the following here -->  
+ *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
+ 
+ 
 # Table Of Contents
 
 - [Overview](#overview)
