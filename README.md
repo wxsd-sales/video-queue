@@ -32,6 +32,9 @@ This is a proof-of-concept application which generates a customized looking queu
 
 <br />
 
+ *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
+ 
+<br />
 # Overview
 
 This web application provides a support queue system that could be embedded in E2C use cases and contains two views: Requester & Responder views. As you see in the figure above, there is a list of requests for a responder to manage or address to. In order for the responder to view any requests, they would need any requester to submit a request. Once a requester has submitted a request, responder will have few options to manage the request. Responder is able to skip or address the request by starting a session with the requester. This PoC is designed to address some of the use cases mentioned below:
@@ -172,7 +175,7 @@ Lastly, navigate to `http://localhost` in your browser and follow instructions.
 
 <br />
 
-# Built With
+# Dependencies
 
 - [Webex Browser SDK](https://github.com/webex/webex-js-sdk)
 - [Webex Instant Connect](https://instant.webex.com/)
